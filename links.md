@@ -5,3 +5,5 @@
 
 * Let: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 * Const: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+
+* Arrow Functions: http://nipher.io/ES6-arrow-functions
